@@ -1,5 +1,5 @@
-# Demo formulario y gráficos
+# Form and charts demo
 
-Este proyecto es una demostración práctica creada con Angular 19, que combina el uso de **Angular Material** para la interfaz de usuario y **NGX Charts** para la visualización de datos. Está diseñado como una actividad de integración de componentes modernos y visuales en una aplicación Angular desde cero.
+This project is a practical demo built with Angular 19, combining the use of **Angular Material** for the user interface and **NGX Charts** for data visualization. It is designed as an activity to integrate modern, visual components into an Angular application from scratch.
 
-`@swimlane/ngx-charts` es una poderosa librería basada en D3 que permite generar visualizaciones responsivas, interactivas y con buen soporte para Angular moderno.
+`@swimlane/ngx-charts` is a powerful D3-based library that makes it possible to generate responsive, interactive visualizations with good support for modern Angular.
